@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+.bckg{
+    background-color: rgb(173, 179, 179);
+
+    width:500;
+    height:620;
+    border-radius: 20px;
+    
+    
+}
+h2{
+    text-align: center;
+    font-family:"Montserrat" , sans-serif;
+}
+.output{
+    background-color: aliceblue;
+    border-radius: 20px;
+    width:400;
+    height:15;
+    border: 3px solid black;
+    padding: 10px 10px;
+    margin:auto;
+    text-align: center;
+    
+}
+p{
+    position: relative;
+    bottom: 20px;
+}
+.numbers4-6{
+    
+
+    padding: 5px ;
+    margin:auto;
+    margin-top:auto;
+    
+
+}
+.numbers1-3{
+
+    padding: 5px ;
+    margin:auto;
+
+  }
+  .numbers7-9{
+   
+
+    padding: 5px ;
+    margin:auto;
+
+  }
+  input{
+      width:90px;
+      height:90px;
+      font-size: 60%;
+      font-family:"Montserrat" , sans-serif;
+
+  }
+
+  .M {
+
+    width:90px;
+    height:45px;
+    margin-left: 5rem;
+
+  }
+  .D{
+    width:90px;
+    height:45px;
+    margin-left: 22.7rem;
+  }
+  .A {
+
+    width:90px;
+    height:45px;
+    margin-left: 5rem;
+
+  }
+  .S {
+    width:90px;
+    height:45px;
+    margin-left: 22.7rem;
+  }
+  .number0{
+    padding: 5px ;
+    margin:auto;
+    margin-left: 3rem;
+    margin-top: 1rem;
+
+  }
